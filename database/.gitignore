@@ -1,0 +1,3 @@
+*.sqlite
+*.sqlite-journal
+test_tenant*
